@@ -1,2 +1,2 @@
-#Netflix Feign
-Feign\u662f\u4e00\u79cd\u58f0\u660e\u5f0f\u3001\u6a21\u677f\u5316\u7684HTTP\u5ba2\u6237\u7aef\u3002
+﻿#Netflix Feign
+Feign是一种声明式、模板化的HTTP客户端。

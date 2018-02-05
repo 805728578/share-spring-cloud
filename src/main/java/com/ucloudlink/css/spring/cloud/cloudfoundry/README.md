@@ -1,2 +1,2 @@
-#Spring Cloud for Pivotal Cloud Foundry
-\u901a\u8fc7Oauth2\u534f\u8bae\u7ed1\u5b9a\u670d\u52a1\u5230CloudFoundry\uff0cCloudFoundry\u662fVMware\u63a8\u51fa\u7684\u5f00\u6e90PaaS\u4e91\u5e73\u53f0\u3002
+﻿#Spring Cloud for Pivotal Cloud Foundry
+通过Oauth2协议绑定服务到CloudFoundry，CloudFoundry是VMware推出的开源PaaS云平台。

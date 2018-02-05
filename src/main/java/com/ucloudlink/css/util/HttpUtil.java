@@ -264,4 +264,3 @@ public class HttpUtil {
 		System.out.println(result);
 	}
 }
-

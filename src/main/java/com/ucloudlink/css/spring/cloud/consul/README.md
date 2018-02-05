@@ -1,2 +1,2 @@
-# HashiCorp Consul
-\u5c01\u88c5\u4e86Consul\u64cd\u4f5c\uff0cconsul\u662f\u4e00\u4e2a\u670d\u52a1\u53d1\u73b0\u4e0e\u914d\u7f6e\u5de5\u5177\uff0c\u4e0eDocker\u5bb9\u5668\u53ef\u4ee5\u65e0\u7f1d\u96c6\u6210\u3002
+﻿# HashiCorp Consul
+封装了Consul操作，consul是一个服务发现与配置工具，与Docker容器可以无缝集成。

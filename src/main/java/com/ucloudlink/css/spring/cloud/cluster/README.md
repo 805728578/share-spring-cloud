@@ -1,2 +1,2 @@
-#Spring Cloud Cluster
-\u63d0\u4f9bLeadership\u9009\u4e3e\uff0c\u5982\uff1aZookeeper, Redis, Hazelcast, Consul\u7b49\u5e38\u89c1\u72b6\u6001\u6a21\u5f0f\u7684\u62bd\u8c61\u548c\u5b9e\u73b0\u3002
+﻿#Spring Cloud Cluster
+提供Leadership选举，如：Zookeeper, Redis, Hazelcast, Consul等常见状态模式的抽象和实现。

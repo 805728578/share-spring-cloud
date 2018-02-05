@@ -1,2 +1,2 @@
-#Spring Cloud Zookeeper
-\u64cd\u4f5cZookeeper\u7684\u5de5\u5177\u5305\uff0c\u7528\u4e8e\u4f7f\u7528zookeeper\u65b9\u5f0f\u7684\u670d\u52a1\u53d1\u73b0\u548c\u914d\u7f6e\u7ba1\u7406
+﻿#Spring Cloud Zookeeper
+操作Zookeeper的工具包，用于使用zookeeper方式的服务发现和配置管理

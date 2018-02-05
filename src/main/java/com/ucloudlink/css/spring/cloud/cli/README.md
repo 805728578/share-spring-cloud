@@ -1,2 +1,2 @@
-#Spring Cloud CLI
-\u57fa\u4e8e Spring Boot CLI\uff0c\u53ef\u4ee5\u8ba9\u4f60\u4ee5\u547d\u4ee4\u884c\u65b9\u5f0f\u5feb\u901f\u5efa\u7acb\u4e91\u7ec4\u4ef6\u3002
+﻿#Spring Cloud CLI
+基于 Spring Boot CLI，可以让你以命令行方式快速建立云组件。

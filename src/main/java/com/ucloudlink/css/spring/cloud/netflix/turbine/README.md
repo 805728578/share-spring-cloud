@@ -1,2 +1,2 @@
-#Netflix Turbine
-Turbine\u662f\u805a\u5408\u670d\u52a1\u5668\u53d1\u9001\u4e8b\u4ef6\u6d41\u6570\u636e\u7684\u4e00\u4e2a\u5de5\u5177\uff0c\u7528\u6765\u76d1\u63a7\u96c6\u7fa4\u4e0bhystrix\u7684metrics\u60c5\u51b5
+﻿#Netflix Turbine
+Turbine是聚合服务器发送事件流数据的一个工具，用来监控集群下hystrix的metrics情况
