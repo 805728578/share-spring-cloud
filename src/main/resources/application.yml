@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: css-spring-cloud
+    name: share-spring-cloud
     
 zuul:
   routes:

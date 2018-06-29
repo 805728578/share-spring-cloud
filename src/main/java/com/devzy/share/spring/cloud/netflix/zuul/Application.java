@@ -1,4 +1,4 @@
-package com.ucloudlink.css.spring.cloud.netflix.zuul;
+package com.devzy.share.spring.cloud.netflix.zuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
